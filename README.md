@@ -1,2 +1,2 @@
 # anytest
-Tests on Github merge with Matlab environment
+Tests on Github merging with Matlab environment
